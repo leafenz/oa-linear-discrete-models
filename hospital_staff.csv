@@ -1,0 +1,21 @@
+staff_id,name,gender,role,experience_level,max_hours_per_week,cost_per_hour,shift_preference,availability_morning,availability_afternoon,availability_night
+1,Alice Johnson,Male,Intern,Mid,27,11,Morning,1,1,0
+2,Bob Smith,Male,Technician,Mid,30,18,Morning,1,1,0
+3,Clara Lee,Male,Nurse,Mid,45,28,Afternoon,0,0,0
+4,David Brown,Female,Nurse,Senior,35,22,Night,1,1,1
+5,Eva Green,Female,Nurse,Junior,40,21,Morning,0,1,1
+6,Frank Harris,Female,Nurse,Senior,44,24,Morning,1,0,0
+7,Grace Wilson,Male,Technician,Senior,36,19,Night,1,1,0
+8,Henry Young,Female,Nurse,Mid,36,20,Night,1,1,1
+9,Isabel Clark,Female,Nurse,Senior,38,21,Afternoon,0,1,0
+10,Jack Lewis,Female,Nurse,Junior,40,23,Night,1,1,0
+11,Karen Walker,Male,Nurse,Mid,37,28,Night,1,1,0
+12,Liam Hall,Female,Nurse,Mid,45,28,Morning,1,0,0
+13,Mia Allen,Male,Technician,Junior,30,23,Afternoon,1,1,0
+14,Noah Scott,Male,Nurse,Senior,44,25,Morning,1,1,0
+15,Olivia Adams,Female,Intern,Senior,34,11,Afternoon,1,1,0
+16,Paul Turner,Female,Doctor,Mid,53,47,Afternoon,0,1,0
+17,Quinn Baker,Male,Nurse,Mid,36,20,Morning,1,1,1
+18,Rachel Hill,Male,Doctor,Senior,53,37,Afternoon,1,1,1
+19,Samuel Evans,Female,Nurse,Mid,43,20,Night,0,1,1
+20,Tina Cooper,Female,Technician,Senior,35,19,Afternoon,1,1,0
